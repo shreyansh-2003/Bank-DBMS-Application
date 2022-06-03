@@ -1,13 +1,11 @@
 
-### Bank-DBMS Application/Project   
+# Bank-DBMS Application/Project   
 
 -> Developed by Shreyansh Padarha
 *Description*  
 
-+ Disclaimer : This is the first project i ever created, thus the code is not properly optimized and has some minor bugs, but for a beginner, there is enough visualization and content to understand, how i created this project in 6-7 days.
++ Disclaimer : This is the first project i ever created, thus the code is not properly optimized and has some minor bugs, but for a beginner, there is enough visualization and content to understand, how i created this project in 6-7 days.  
 
-This is a file that consists of the project i created for a college submission. Its a Tkinter GUI library based application, where a user can create an bank account and it'll get deposited in the database. The user can then, **deposit**,**withdraw** money, and edit his/her account. 
-The application also has a normal calculator, simple interest calculator and a compound interest calculator.
 
 + Files in the repository : 
 
@@ -16,7 +14,7 @@ The application also has a normal calculator, simple interest calculator and a c
 3. Running Screenshots | Output pdf --> Compilation of all running screenshots of the application 
 4. Application Presentation --> Highlights the process and output achieved in a ppt format  
 
-THANKS !!!
+### HOPE YOU ENJOY IT !!!
 
 
 
