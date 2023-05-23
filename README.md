@@ -16,16 +16,16 @@ __Note:__  This is the first project i ever created on python for my Introductio
 
 ## Runnign Screenshots
 
-__Main Window__
+#### Main Window
 <img width="712" alt="main window" src="https://github.com/shreyansh-2003/Bank-DBMS-Application/assets/105413094/69e9eec2-63d2-41b9-80f9-f420e42568b6">
 
-__Math Calculator__
+#### Math Calculator
 <img width="377" alt="1) normal calculator" src="https://github.com/shreyansh-2003/Bank-DBMS-Application/assets/105413094/6abc4259-2b92-46bf-915e-0ba338009c6f">
 
-__Creating a Bank Account__
+#### Creating a Bank Account
 <img width="571" alt="Create Account (blank)" src="https://github.com/shreyansh-2003/Bank-DBMS-Application/assets/105413094/aa17868b-5612-4f7a-9c86-cfdff2088eff">
 
-__Compound Interest Calculator__
+#### Compound Interest Calculator
 <img width="721" alt="empty compound interest calc" src="https://github.com/shreyansh-2003/Bank-DBMS-Application/assets/105413094/cae02bb0-5406-48c2-a8f3-d86de36109ea">
 
 ### HOPE YOU LIKE THE PROGRAM !!!
